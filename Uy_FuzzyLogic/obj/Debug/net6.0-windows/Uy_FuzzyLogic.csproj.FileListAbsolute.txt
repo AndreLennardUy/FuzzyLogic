@@ -1,0 +1,17 @@
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\Uy_FuzzyLogic\Uy_FuzzyLogic\bin\Debug\net6.0-windows\Uy_FuzzyLogic.exe
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\Uy_FuzzyLogic\Uy_FuzzyLogic\bin\Debug\net6.0-windows\Uy_FuzzyLogic.deps.json
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\Uy_FuzzyLogic\Uy_FuzzyLogic\bin\Debug\net6.0-windows\Uy_FuzzyLogic.runtimeconfig.json
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\Uy_FuzzyLogic\Uy_FuzzyLogic\bin\Debug\net6.0-windows\Uy_FuzzyLogic.dll
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\Uy_FuzzyLogic\Uy_FuzzyLogic\bin\Debug\net6.0-windows\Uy_FuzzyLogic.pdb
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\Uy_FuzzyLogic\Uy_FuzzyLogic\obj\Debug\net6.0-windows\Uy_FuzzyLogic.csproj.AssemblyReference.cache
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\Uy_FuzzyLogic\Uy_FuzzyLogic\obj\Debug\net6.0-windows\Uy_FuzzyLogic.Form1.resources
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\Uy_FuzzyLogic\Uy_FuzzyLogic\obj\Debug\net6.0-windows\Uy_FuzzyLogic.csproj.GenerateResource.cache
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\Uy_FuzzyLogic\Uy_FuzzyLogic\obj\Debug\net6.0-windows\Uy_FuzzyLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\Uy_FuzzyLogic\Uy_FuzzyLogic\obj\Debug\net6.0-windows\Uy_FuzzyLogic.AssemblyInfoInputs.cache
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\Uy_FuzzyLogic\Uy_FuzzyLogic\obj\Debug\net6.0-windows\Uy_FuzzyLogic.AssemblyInfo.cs
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\Uy_FuzzyLogic\Uy_FuzzyLogic\obj\Debug\net6.0-windows\Uy_FuzzyLogic.csproj.CoreCompileInputs.cache
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\Uy_FuzzyLogic\Uy_FuzzyLogic\obj\Debug\net6.0-windows\Uy_FuzzyLogic.dll
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\Uy_FuzzyLogic\Uy_FuzzyLogic\obj\Debug\net6.0-windows\refint\Uy_FuzzyLogic.dll
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\Uy_FuzzyLogic\Uy_FuzzyLogic\obj\Debug\net6.0-windows\Uy_FuzzyLogic.pdb
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\Uy_FuzzyLogic\Uy_FuzzyLogic\obj\Debug\net6.0-windows\Uy_FuzzyLogic.genruntimeconfig.cache
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\Uy_FuzzyLogic\Uy_FuzzyLogic\obj\Debug\net6.0-windows\ref\Uy_FuzzyLogic.dll
